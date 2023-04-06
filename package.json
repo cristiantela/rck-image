@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristiantela/rck-image.git"
+  },
   "keywords": ["resize", "convert", "images", "client-side"],
   "author": "Matheus Cristian",
   "license": "ISC"
