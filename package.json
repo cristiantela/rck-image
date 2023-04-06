@@ -1,0 +1,12 @@
+{
+  "name": "rck-image",
+  "description": "Client-side resize and convert images",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["resize", "convert", "images", "client-side"],
+  "author": "Matheus Cristian",
+  "license": "ISC"
+}
